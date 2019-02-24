@@ -1,0 +1,8 @@
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Interaction_Streams_101.exe.config
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Interaction_Streams_101.exe
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Interaction_Streams_101.pdb
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Tobii.Interaction.Model.dll
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\bin\x86\Debug\Tobii.Interaction.Net.dll
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\obj\x86\Debug\Interaction_Streams_101.exe
+C:\Users\Wzh\Desktop\平台搭建\案例\CoreSDK-master\samples\Streams\Interaction_Streams_101\obj\x86\Debug\Interaction_Streams_101.pdb
