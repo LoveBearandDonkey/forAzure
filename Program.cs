@@ -1,8 +1,8 @@
-﻿using System;
-using Tobii.Interaction;
+///﻿using System;
+using Tobii.Interaction
 
 namespace Interaction_Streams_101
-{
+///{
     /// <summary>
     /// The data streams provide nicely filtered eye-gaze data from the eye tracker 
     /// transformed to a convenient coordinate system. The point on the screen where 
@@ -14,7 +14,7 @@ namespace Interaction_Streams_101
     /// Let's see how is simple to find out where are you looking at the screen
     /// using GazePoint data stream, accessible from Streams property of Host instance.
     /// </summary>
-    ///public class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
