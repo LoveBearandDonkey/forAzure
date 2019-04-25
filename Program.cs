@@ -1,8 +1,8 @@
-///﻿using System;
-using Tobii.Interaction
+﻿using System;
+using Tobii.Interaction;
 
 namespace Interaction_Streams_101
-///{
+{
     /// <summary>
     /// The data streams provide nicely filtered eye-gaze data from the eye tracker 
     /// transformed to a convenient coordinate system. The point on the screen where 
