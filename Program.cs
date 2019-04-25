@@ -14,7 +14,7 @@ namespace Interaction_Streams_101
     /// Let's see how is simple to find out where are you looking at the screen
     /// using GazePoint data stream, accessible from Streams property of Host instance.
     /// </summary>
-    public class Program
+    ///public class Program
     {
         public static void Main(string[] args)
         {
