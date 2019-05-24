@@ -23,7 +23,7 @@ namespace Interaction_Streams_101
             // NOTE: Make sure that Tobii.EyeX.exe is running
             var host = new Host();
 
-            // 2. Create stream. 
+            // 2222. Create stream. 
             var gazePointDataStream = host.Streams.CreateGazePointDataStream();
 
             // 3. Get the gaze data!
