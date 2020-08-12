@@ -5,4 +5,6 @@
 乌朱
 ikkiool
 lokpjj
-oiuygg
+奥伊格
+基奥普
+kojhg
